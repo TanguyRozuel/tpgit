@@ -36,3 +36,9 @@ valeur:
   - revert : Revenir à une version antérieur.
   - style : Modifications qui n'affectent pas la signification du code (espaces blancs, formatage, points-virgules manquants, etc.)..
   - test : Ajout de tests manquants ou correction de tests existants.
+
+## Auteur
+  - Yassine BOUL-HANNA alias  **toast-sys**
+  - Tanguy ROZUEL alias **TanguyRozuel**
+  - Axel KERGUS alias **axlkgs**
+  - Chomphoo LE BEUX alias **Chomphoo-pro**
